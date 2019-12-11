@@ -1,0 +1,3 @@
+C:/Users/giofn/OneDrive/Desktop/MatriciTemplate/cmake-build-debug/CMakeFiles/MatriciTemplate.dir
+C:/Users/giofn/OneDrive/Desktop/MatriciTemplate/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/giofn/OneDrive/Desktop/MatriciTemplate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
